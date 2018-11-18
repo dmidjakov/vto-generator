@@ -1,0 +1,14 @@
+{
+  "name": "vto-generator",
+  "version": "1.0.0",
+  "description": "Generate VTO easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitri Djakov",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.6"
+  }
+}
