@@ -9,6 +9,8 @@
   "author": "Dmitri Djakov",
   "license": "ISC",
   "devDependencies": {
+    "eslint": "^5.9.0",
     "nodemon": "^1.18.6"
-  }
+  },
+  "dependencies": {}
 }
