@@ -12,5 +12,9 @@
     "eslint": "^5.9.0",
     "nodemon": "^1.18.6"
   },
-  "dependencies": {}
+  "dependencies": {
+    "fast-glob": "^2.2.4",
+    "fs-extra": "^7.0.1",
+    "lodash": "^4.17.11"
+  }
 }
